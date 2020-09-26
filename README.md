@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Gif for demo
+
+![Alt Text](http://g.recordit.co/ZwaytWhoFq.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
